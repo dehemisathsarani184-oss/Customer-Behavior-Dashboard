@@ -39,8 +39,6 @@ This project demonstrates a **Customer Behavior Dashboard** that analyzes custom
 * Supports marketing and inventory planning
 * Easy-to-use, interactive dashboard for business decisions
 
-## Dashboard
-
 ## Dashboard Preview
 
 ![Customer Behavior Dashboard](Dashboard.png)
