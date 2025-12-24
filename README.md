@@ -43,6 +43,6 @@ This project demonstrates a **Customer Behavior Dashboard** that analyzes custom
 
 ## Dashboard Preview
 
-![Customer Behavior Dashboard](Screenshots/Dashboard.png)
+![Customer Behavior Dashboard](Dashboard.png)
 
 
